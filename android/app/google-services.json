@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525422736376",
+    "firebase_url": "https://blocker-97aff.firebaseio.com",
+    "project_id": "blocker-97aff",
+    "storage_bucket": "blocker-97aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525422736376:android:e016a47945bdcd14d31c0d",
+        "android_client_info": {
+          "package_name": "com.example.blocker_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525422736376-qg2l4uuiob9v2d1uu0gqlhqncn8lf67g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CI5jcYLNFOwM9NrH5vcW6uQH2khEuJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525422736376-qg2l4uuiob9v2d1uu0gqlhqncn8lf67g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
